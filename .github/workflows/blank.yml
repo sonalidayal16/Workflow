@@ -24,7 +24,10 @@ on:
     fork:
     
     gollum:
- 
+    
+    label:
+    types: [created, deleted]
+
  
     
     
